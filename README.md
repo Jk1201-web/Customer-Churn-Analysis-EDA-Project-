@@ -8,6 +8,9 @@
 - [Key_Insights](#-Key-Insights)
 - [Tools_and_Technologies](#-Tools-and-Technologies)
 - [Project_Workflow](#-Project-Workflow)
+- [Repository_Structure](#-Repository-Structure)
+- [Business_impact](#-Business-impact)
+- [Future_improvement](#-Future-improvement)
 ## Overview
 This project focuses on analyzing customer churn in the telecom/banking domain using Exploratory Data Analysis (EDA) techniques. The goal is to identify patterns, trends, and key factors that influence whether a customer leaves the service.
 The analysis helps businesses make data-driven decisions to reduce customer attrition and improve retention strategies.
