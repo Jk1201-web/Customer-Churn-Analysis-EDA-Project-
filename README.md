@@ -1,16 +1,16 @@
 # Customer-Churn-Analysis-EDA-Project
 - [Project Overview](#-project-overview)  
 - [Objective](#-objective)  
-- [Dataset Information](#-dataset-information)
-- [Dataset_cleaning_and_processing](#-Dataset-cleaning-and-processing)
-- [Exploratory_Data_Analysis_(EDA)](#-Exploratory-Data-Analysis(EDA))
-- [Visualizations_Used](#-Visualization-used)
-- [Key_Insights](#-Key-Insights)
-- [Tools_and_Technologies](#-Tools-and-Technologies)
-- [Project_Workflow](#-Project-Workflow)
-- [Repository_Structure](#-Repository-Structure)
-- [Business_impact](#-Business-impact)
-- [Future_improvement](#-Future-improvement)
+- [Dataset](#-dataset)
+- [Data Cleaning & Preprocessing](#-Dataset-Cleaning-&-Processing)
+- [Exploratory Data Analysis(EDA)](#-Exploratory-Data-Analysis(EDA))
+- [Visualizations Used](#-Visualization-used)
+- [Key Insights](#-Key-Insights)
+- [Tools and Technologies](#-Tools-and-Technologies)
+- [Project Workflow](#-Project-Workflow)
+- [Repository Structure](#-Repository-Structure)
+- [Business impact](#-Business-impact)
+- [Future improvement](#-Future-improvement)
 ## Overview
 This project focuses on analyzing customer churn in the telecom/banking domain using Exploratory Data Analysis (EDA) techniques. The goal is to identify patterns, trends, and key factors that influence whether a customer leaves the service.
 The analysis helps businesses make data-driven decisions to reduce customer attrition and improve retention strategies.
