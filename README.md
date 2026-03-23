@@ -21,11 +21,11 @@ The analysis helps businesses make data-driven decisions to reduce customer attr
 - Visualize insights using charts and graphs
 - Provide actionable business insights
 ## Dataset
-[Dataset Link](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
-Dataset: Telco Customer Churn Dataset
-Records: ~7,000+ customers
-Features: 20+ columns including demographics, services, and billing
--- Key Columns:
+[https://www.kaggle.com/datasets/blastchar/telco-customer-churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
+-Dataset: Telco Customer Churn Dataset
+-Records: ~7,000+ customers
+-Features: 20+ columns including demographics, services, and billing
+-Key Columns:
 - CustomerID
 - Gender
 - SeniorCitizen
