@@ -60,11 +60,11 @@ Electronic check users have higher churn
 - Heatmap (Correlation Matrix)
 - Grouped Analysis
 ## Key Insights
--📉 Short-term customers are more likely to churn
--💰 High monthly charges increase churn probability
--📑 Month-to-month contracts are risky
--🌐 Fiber optic service users churn more
--💳 Electronic check payment users show higher churn
+- Short-term customers are more likely to churn
+- High monthly charges increase churn probability
+- Month-to-month contracts are risky
+- Fiber optic service users churn more
+- Electronic check payment users show higher churn
 ## Tools & Technologies
 - Python
 - Pandas
