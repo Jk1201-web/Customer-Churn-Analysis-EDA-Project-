@@ -22,10 +22,10 @@ The analysis helps businesses make data-driven decisions to reduce customer attr
 - Provide actionable business insights
 ## Dataset
 [https://www.kaggle.com/datasets/blastchar/telco-customer-churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
--Dataset: Telco Customer Churn Dataset
--Records: ~7,000+ customers
--Features: 20+ columns including demographics, services, and billing
--Key Columns:
+- Dataset: Telco Customer Churn Dataset
+- Records: ~7,000+ customers
+- Features: 20+ columns including demographics, services, and billing
+- Key Columns:
 - CustomerID
 - Gender
 - SeniorCitizen
@@ -42,17 +42,17 @@ The analysis helps businesses make data-driven decisions to reduce customer attr
 - Converted categorical fields to correct data types
 - Removed unnecessary inconsistencies
 ## Exploratory Data Analysis (EDA)
--🔹 Churn Distribution
+- 🔹 Churn Distribution
 Identified percentage of customers who churned vs stayed
--🔹 Contract Type vs Churn
+- 🔹 Contract Type vs Churn
 Month-to-month contracts show higher churn
--🔹 Monthly Charges Analysis
+- 🔹 Monthly Charges Analysis
 Customers with higher charges tend to churn more
--🔹 Tenure Analysis
+- 🔹 Tenure Analysis
 Customers with shorter tenure are more likely to churn
-🔹 Internet Service Impact
+- 🔹 Internet Service Impact
 Fiber optic users show higher churn rates
--🔹 Payment Method Analysis
+- 🔹 Payment Method Analysis
 Electronic check users have higher churn
 ## Visualizations Used
 - Count Plots
