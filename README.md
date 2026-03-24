@@ -1,16 +1,16 @@
 # Customer-Churn-Analysis-EDA-Project
-- [Project Overview](#-project-overview)  
-- [Objective](#-objective)  
-- [Dataset](#-dataset)
-- [Data Cleaning & Preprocessing](#-Dataset-Cleaning-&-Processing)
-- [Exploratory Data Analysis(EDA)](#-Exploratory-Data-Analysis(EDA))
-- [Visualizations Used](#-Visualization-used)
-- [Key Insights](#-Key-Insights)
-- [Tools and Technologies](#-Tools-and-Technologies)
-- [Project Workflow](#-Project-Workflow)
-- [Repository Structure](#-Repository-Structure)
-- [Business impact](#-Business-impact)
-- [Future improvement](#-Future-improvement)
+- [Project Overview](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-?tab=readme-ov-file#overview)  
+- [Objective](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#objective)  
+- [Dataset](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#dataset)
+- [Data Cleaning & Preprocessing](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#data-cleaning--preprocessing)
+- [Exploratory Data Analysis(EDA)](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#exploratory-data-analysis-eda)
+- [Visualizations Used](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#visualizations-used)
+- [Key Insights](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#key-insights)
+- [Tools and Technologies](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#tools--technologies)
+- [Project Workflow](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#project-workflow)
+- [Repository Structure](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#repository-structure)
+- [Business impact](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#business-impact)
+- [Future improvement](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#future-improvements)
 ## Overview
 This project focuses on analyzing customer churn in the telecom/banking domain using Exploratory Data Analysis (EDA) techniques. The goal is to identify patterns, trends, and key factors that influence whether a customer leaves the service.
 The analysis helps businesses make data-driven decisions to reduce customer attrition and improve retention strategies.
