@@ -46,6 +46,7 @@ The analysis helps businesses make data-driven decisions to reduce customer attr
 Identified percentage of customers who churned vs stayed
 - 🔹 Contract Type vs Churn
 Month-to-month contracts show higher churn
+[churn by contract](churn_by_contract.png)
 - 🔹 Monthly Charges Analysis
 Customers with higher charges tend to churn more
 - 🔹 Tenure Analysis
