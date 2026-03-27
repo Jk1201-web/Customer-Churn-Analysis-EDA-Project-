@@ -25,7 +25,7 @@ The analysis helps businesses make data-driven decisions to reduce customer attr
 - Dataset: Telco Customer Churn Dataset
 - Records: ~7,000+ customers
 - Features: 20+ columns including demographics, services, and billing
-- Key Columns:
+### Key Columns:
 - CustomerID
 - Gender
 - SeniorCitizen
@@ -96,9 +96,10 @@ Customer-Churn-Analysis/
 -Add Machine Learning model (Logistic Regression)
 -Build churn prediction system
 -Deploy dashboard using Power BI / Tableau
-## Author
-Aspiring Data Analyst
-Skilled in Python, Excel, SQL, and Data Visualization
+## Connect with me
+- [Linkdin](www.linkedin.com/in/jijau-khandale)
+- [GitHub](https://github.com/Jk1201-web)
+- [Kaggle](https://www.kaggle.com/jijaumohankhandale)
 
 
 
