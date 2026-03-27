@@ -10,7 +10,6 @@
 - [Key Insights](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#key-insights)
 - [Tools and Technologies](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#tools--technologies)
 - [Project Workflow](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#project-workflow)
-- [Repository Structure](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#repository-structure)
 - [Business impact](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#business-impact)
 - [Future improvement](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#future-improvements)
 ## Overview
@@ -84,13 +83,6 @@ Electronic check users have higher churn
 -Exploratory Data Analysis
 -Visualization
 -Insight Generation
-## Repository Structure
-Customer-Churn-Analysis/
-│
-├── churn_analysis.ipynb
-├── dataset.csv
-├── images/
-├── README.md
 ## Business Impact
 - Helps reduce customer churn
 - Improves customer retention strategies
