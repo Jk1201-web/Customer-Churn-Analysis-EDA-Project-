@@ -12,6 +12,10 @@
 - [Project Workflow](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#project-workflow)
 - [Business impact](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#business-impact)
 - [Future improvement](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#future-improvements)
+- [Connect with me](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#connect-with-me)
+   - [Linkdin](www.linkedin.com/in/jijau-khandale)
+   - [GitHub](https://github.com/Jk1201-web)
+   - [Kaggle](https://www.kaggle.com/jijaumohankhandale)
 ## Overview
 This project focuses on analyzing customer churn in the telecom/banking domain using Exploratory Data Analysis (EDA) techniques. The goal is to identify patterns, trends, and key factors that influence whether a customer leaves the service.
 The analysis helps businesses make data-driven decisions to reduce customer attrition and improve retention strategies.
