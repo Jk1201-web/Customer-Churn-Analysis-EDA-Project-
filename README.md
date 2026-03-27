@@ -2,7 +2,8 @@
 - [Project Overview](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-?tab=readme-ov-file#overview)  
 - [Objective](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#objective)  
 - [Dataset](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#dataset)
-- 
+- [How to Run the Project](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-/blob/main/README.md#how-to-run-the-project)
+  - [churn_analysis.ipynb](churn_analysis.ipynb)
 - [Data Cleaning & Preprocessing](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#data-cleaning--preprocessing)
 - [Exploratory Data Analysis(EDA)](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#exploratory-data-analysis-eda)
 - [Visualizations Used](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#visualizations-used)
@@ -37,7 +38,7 @@ The analysis helps businesses make data-driven decisions to reduce customer attr
 - PaymentMethod
 - Churn
 ## How to Run the Project
-
+- [churn_analysis.ipynb](churn_analysis.ipynb)
 ## Data Cleaning & Preprocessing
 - Removed missing values
 - Converted TotalCharges to numeric
