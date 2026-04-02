@@ -1,4 +1,5 @@
-# Customer-Churn-Analysis-EDA-Project
+# Customer Churn Analysis
+## *Exploratory Data Analysis (EDA)*
 - [Project Overview](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-?tab=readme-ov-file#overview)  
 - [Objective](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#objective)  
 - [Dataset](https://github.com/Jk1201-web/Customer-Churn-Analysis-EDA-Project-#dataset)
@@ -16,20 +17,24 @@
    - [Linkdin](www.linkedin.com/in/jijau-khandale)
    - [GitHub](https://github.com/Jk1201-web)
    - [Kaggle](https://www.kaggle.com/jijaumohankhandale)
+     
 ## Overview
-This project focuses on analyzing customer churn in the telecom/banking domain using Exploratory Data Analysis (EDA) techniques. The goal is to identify patterns, trends, and key factors that influence whether a customer leaves the service.
-The analysis helps businesses make data-driven decisions to reduce customer attrition and improve retention strategies.
+- This project analyzes customer churn data using Python to identify key factors influencing customer attrition and retention.
+- The goal is to help businesses understand why customers leave, identify high-risk segments, and implement strategies to improve customer retention.
+  
 ## Objective
-- Understand customer behavior and churn patterns
-- Identify key factors affecting churn
-- Perform data cleaning and preprocessing
-- Visualize insights using charts and graphs
-- Provide actionable business insights
+1. Analyze overall churn rate
+2. Identify key factors influencing churn
+3. Evaluate impact of contract type on churn
+4. Perform exploratory data analysis (EDA)
+5. Generate actionable business insights
+   
 ## Dataset
 [https://www.kaggle.com/datasets/blastchar/telco-customer-churn](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)
 - Dataset: Telco Customer Churn Dataset
 - Records: ~7,000+ customers
 - Features: 20+ columns including demographics, services, and billing
+  
 ### Key Columns:
 - CustomerID
 - Gender
@@ -40,66 +45,100 @@ The analysis helps businesses make data-driven decisions to reduce customer attr
 - Contract
 - PaymentMethod
 - Churn
-## How to Run the Project
-- [churn_analysis.ipynb](churn_analysis.ipynb)
-## Data Cleaning & Preprocessing
-- Removed missing values
-- Converted TotalCharges to numeric
-- Handled null values after conversion
-- Converted categorical fields to correct data types
-- Removed unnecessary inconsistencies
-## Exploratory Data Analysis (EDA)
-- 🔹 Churn Distribution
-Identified percentage of customers who churned vs stayed
-- 🔹 Contract Type vs Churn
-Month-to-month contracts show higher churn
-- 🔹 Monthly Charges Analysis
-Customers with higher charges tend to churn more
-- 🔹 Tenure Analysis
-Customers with shorter tenure are more likely to churn
-- 🔹 Internet Service Impact
-Fiber optic users show higher churn rates
-- 🔹 Payment Method Analysis
-Electronic check users have higher churn
-## Visualizations Used
-- Count Plots
-- Box Plots
-- Heatmap (Correlation Matrix)
-- Grouped Analysis
-## Key Insights
-- Short-term customers are more likely to churn
-- High monthly charges increase churn probability
-- Month-to-month contracts are risky
-- Fiber optic service users churn more
-- Electronic check payment users show higher churn
-## Tools & Technologies
+  
+## Business Problems Solved
+1. What is the overall churn rate?
+2. How many customers are leaving the business?
+3. Which customer segments have the highest churn?
+4. How does contract type affect churn?
+5. What strategies can reduce churn?
+   
+## Tools & Libraries Used
 - Python
 - Pandas
-- NumPy
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
+## Analysis Performed
+1. Data Cleaning & Preparation
+2. Exploratory Data Analysis (EDA)
+3. Churn Distribution Analysis
+4. Contract-wise Churn Analysis
+5. Data Visualization
+   
+## Key Metrics
+| Metric	| Value |
+|------|------|
+| Total Customers |	7,032 |
+| Customers Retained	| 5,163 |
+| Customers Churned |	1,869 |
+| Churn Rate | 26.58% |
+
+### Detailed Analysis
+1. Overall Churn Distribution
+   
+| Churn Status | Count | Percentage |
+|------|------|------|
+| No |	5,163 |	73.42% |
+| Yes	| 1,869	| 26.58% |
+
+   - Approximately 26.6% of customers have churned, indicating a high attrition rate Nearly 1 out of 4 customers leaves the business
+
+2. Churn by Contract Type
+| Contract Type |	Retained (No) |	Churned (Yes) |
+| Month-to-month |	57.29%	| 42.71% |
+| One year | 88.72%	| 11.28% |
+| Two year |	97.15% |	2.85% |
+
+   - Month-to-month customers show the highest churn (~43%)
+   - One-year contracts significantly reduce churn (~11%)
+   - Two-year contracts have minimal churn (~3%)
+   - Customer commitment directly impacts retention
+     
+## Key Insights Summary
+- Overall churn rate is ~26.6% (high risk)
+- Majority of churn comes from month-to-month customers
+- Long-term contracts drastically reduce churn
+- Customer retention improves with commitment-based plans
+  
+## Business Recommendations
+1. Offer incentives for long-term subscriptions
+2. Target month-to-month customers with retention campaigns
+3. Provide discounts for contract upgrades
+4. Monitor high-risk customer segments proactively
+   
+## How to Run the Project
+- Install required libraries:
+```pip install pandas matplotlib seaborn```
+- Load dataset in Python
+- Run analysis script / notebook
+   [churn_analysis.ipynb](churn_analysis.ipynb)
+- View outputs and visualizations
+  
 ## Project Workflow
--Data Loading
--Data Cleaning
--Data Type Conversion
--Handling Missing Values
--Exploratory Data Analysis
--Visualization
--Insight Generation
-## Business Impact
-- Helps reduce customer churn
-- Improves customer retention strategies
-- Supports pricing and contract decisions
-- Enables targeted marketing
-## Future Improvements
--Add Machine Learning model (Logistic Regression)
--Build churn prediction system
--Deploy dashboard using Power BI / Tableau
-## Connect with me
-- [Linkdin](www.linkedin.com/in/jijau-khandale)
-- [GitHub](https://github.com/Jk1201-web)
-- [Kaggle](https://www.kaggle.com/jijaumohankhandale)
+1. Data Collection
+2. Data Cleaning
+3. Data Exploration (EDA)
+4. Data Visualization
+5. Insight Generation
+6. Business Recommendations
+   
+## Project Structure
+Customer-Churn-Analysis/
+ ┣ Dataset/
+ ┃ ┗ churn_data.csv
+ ┣ Notebook/
+ ┃ ┗ churn_analysis.ipynb
+ ┣ Images/
+ ┃ ┗ charts.png
+ ┗ README.md
+ 
+## ## Connect With Me
+ - [LinkedIn](www.linkedin.com/in/jijau-khandale)
+ - [GitHub](https://github.com/Jk1201-web)
+ - [Kaggle](https://www.kaggle.com/jijaumohankhandale)
+
+*If you found this project useful, consider giving it a star!*
+
 
 
 
