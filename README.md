@@ -85,6 +85,7 @@
 
 2. Churn by Contract Type
 | Contract Type |	Retained (No) |	Churned (Yes) |
+|------|------|------|
 | Month-to-month |	57.29%	| 42.71% |
 | One year | 88.72%	| 11.28% |
 | Two year |	97.15% |	2.85% |
@@ -126,10 +127,13 @@
 Customer-Churn-Analysis/
  ┣ Dataset/
  ┃ ┗ churn_data.csv
+ 
  ┣ Notebook/
  ┃ ┗ churn_analysis.ipynb
+ 
  ┣ Images/
  ┃ ┗ charts.png
+ 
  ┗ README.md
  
 ## ## Connect With Me
