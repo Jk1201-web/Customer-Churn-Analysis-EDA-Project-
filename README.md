@@ -84,11 +84,7 @@
    - Approximately 26.6% of customers have churned, indicating a high attrition rate Nearly 1 out of 4 customers leaves the business
 
 2. Churn by Contract Type
-| Contract Type |	Retained (No) |	Churned (Yes) |
-|------|------|------|
-| Month-to-month |	57.29%	| 42.71% |
-| One year | 88.72%	| 11.28% |
-| Two year |	97.15% |	2.85% |
+![churn by contract type](churn_by_contract_type.png)
 
    - Month-to-month customers show the highest churn (~43%)
    - One-year contracts significantly reduce churn (~11%)
